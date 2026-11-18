@@ -7,7 +7,8 @@ worked, with links to every conversation it was written from.
 > **This is a compilation, not a support forum.** The discussions here are put
 > together automatically from other sources. It is kept by a volunteer who is a
 > regular Nobara user, not an expert, and who cannot provide support or answer
-> questions. Nobody is watching the replies to answer them.
+> questions. Replies don't change the summaries and nobody is watching them to
+> answer: for help, or to share a fix, use the Nobara Discord.
 
 **Unofficial.** Not affiliated with or endorsed by the Nobara Project. For help, ask
 in the Nobara Discord (linked from [nobaraproject.org](https://nobaraproject.org/)) and
@@ -18,8 +19,7 @@ itself, use [Nobara's GitHub](https://github.com/Nobara-Project).
 
 Each discussion is summarised by an AI model from community conversations and updated
 as new reports come in. It can be wrong: check the linked sources before running any
-command. If you had the problem, you are welcome to reply with what you saw and what
-fixed it; replies are read back into the summary, but are not answered.
+command.
 
 ## Sources and credits
 
@@ -28,7 +28,6 @@ fixed it; replies are read back into the summary, but are not answered.
 | Nobara Discord | Conversations summarised, linked where possible | Shared by participants |
 | [Fedora Discussion](https://discussion.fedoraproject.org/) | Topics mentioning Nobara summarised, each linked | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 | [Stack Exchange](https://stackexchange.com/) (Unix & Linux, Super User, Ask Ubuntu) | Questions mentioning Nobara and their answers summarised, each linked | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
-| Replies on these discussions | Read back into the summary | GitHub's terms |
 | [Nobara wiki](https://wiki.nobaraproject.org/) | Linked from matching issues; nothing copied | All rights reserved by its owners |
 | [Nobara's bug trackers](https://github.com/Nobara-Project) | Linked from matching issues; nothing copied | Owners' terms |
 

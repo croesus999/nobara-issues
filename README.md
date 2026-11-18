@@ -1,8 +1,8 @@
 # Nobara Issues (unofficial)
 
 A searchable list of problems people have had with [Nobara](https://nobaraproject.org/),
-one discussion per problem: what goes wrong, the exact error text, and the fix that
-worked, with links to every conversation it was written from.
+one discussion per problem: what goes wrong, the exact error text, and the best reply
+anyone gave, with links to every conversation it was written from.
 
 > **This is a compilation, not a support forum.** The discussions here are put
 > together automatically from other sources. It is kept by a volunteer who is a
@@ -18,8 +18,18 @@ itself, use [Nobara's GitHub](https://github.com/Nobara-Project).
 ## How it works
 
 Each discussion is summarised by an AI model from community conversations and updated
-as new reports come in. It can be wrong: check the linked sources before running any
-command.
+as new reports come in. It describes the problem; it never offers a fix of its own.
+At the top is the best reply from the conversations, shown as that person's suggestion
+with a link to it:
+
+- **Confirmed fix**: someone other than the reply's author said they tried it and it
+  worked.
+- **Potential fix, not confirmed**: nobody else has said it worked yet.
+- **No fix suggested yet**.
+
+Steps that download from outside the sources or could damage a system are not copied
+here at all; the discussion links to the reply instead. Summaries can be wrong: check
+the linked sources before running any command.
 
 ## Sources and credits
 
